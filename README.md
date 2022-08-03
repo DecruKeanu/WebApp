@@ -26,11 +26,11 @@ Because this project was made as an assignment, it has to adhere to some technic
 I have chosen to make an app that displays an encyclopedia of in game items in the game *The Legend of Zelda: Breath of the Wild*. I made this decision partially out of personal interest, and partially out of relevance to my education (Game Development).
 ## API
 I used the [Hyrule Compendium API](https://github.com/gadhagod/Hyrule-Compendium-API). This API was chosen out of personal interest, and because it matches the expected complexity for this assignment.
-## Design Choises
+## Design Choices
 While designing the UI for this project, my goal was to try to replicate the original UI of the in game compendium. I did this because the course was focussed on the implementation and functionality, rather than the design of the UI.
 # Implementation
-## Good C# practises
-While implementing this system, I wanted to keep my code clean and readable by using common good practises from the C# world.
+## Good C# practices
+While implementing this system, I wanted to keep my code clean and readable by using common good practices from the C# world.
 
 One example of this is the way I structured the data provided by the API. I used interfaces to ensure certain data provides certain values, while making it easy to combine these types of data in more complex classes:
 ```cs
