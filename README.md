@@ -8,7 +8,7 @@
 ***
 
 # Introduction
-This application is an assignment to showcase my ability to use the following technologies and concepts:
+This application was an assignment to showcase my ability to use the following technologies and concepts:
  * WPF
  * REST API (json)
  * XAML (UI design)
@@ -19,15 +19,15 @@ Because this project was made as an assignment, it has to adhere to some technic
  * Usage of the MVVM pattern
  * 2 different pages on 1 window, with a button to navigate between then
  * Usage of a REST API
- * Ability to use local a version (downloaded version of API)
+ * Ability to use a local version (downloaded version of API)
  * Good code quality
 # The Application
 ## Basic concept
-I have chosen to make an app that displays an encyclopedia of in game items in the game *The Legend of Zelda: Breath of the Wild*. I made this decision partially out of personal interest, and partially out of relevance to my education (Game Development).
+I had chosen to make an app that displays an encyclopedia of in game items in the game *The Legend of Zelda: Breath of the Wild*. I made this decision partially out of personal interest, and partially out of relevance to my education (Game Development).
 ## API
 I used the [Hyrule Compendium API](https://github.com/gadhagod/Hyrule-Compendium-API). This API was chosen out of personal interest, and because it matches the expected complexity for this assignment.
 ## Design Choices
-While designing the UI for this project, my goal was to try to replicate the original UI of the in game compendium. I did this because the course was focussed on the implementation and functionality, rather than the design of the UI.
+While designing the UI for this project, my goal was to try to replicate the original UI of the in game compendium. I did this because the course was focused on the implementation and functionality, rather than the design of the UI.
 # Implementation
 ## Good C# practices
 While implementing this system, I wanted to keep my code clean and readable by using common good practices from the C# world.
@@ -88,4 +88,4 @@ Project
   └─ExampleResourceFile.png
   ```
 # Conclusion
-This project was a great introduction to Windows application development development for me. While I still have a lot to learn, this project gave me a good understanding of some of the technologies in this field. WPF, MMVM and json REST APIs are great starting point for me to expand my skills and learn more about this kind of development. Due to the usage of the MVVM pattern, there are certain similatities between this project and full-stack web development, I'm eager to explore this world a bit more with some more personal research.
+This project was a great introduction to Windows application development for me. While I still have a lot to learn, this project gave me a good understanding of some of the technologies used in this field. WPF, MMVM and json REST APIs are great starting points for me to expand my skills and learn more about application development. Due to the usage of the MVVM pattern, there are certain similatities between this project and full-stack web development, I'm eager to explore this world more with some more personal research.
